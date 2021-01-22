@@ -1,0 +1,8 @@
+# detect all text files and automatically normalize them (convert CRLF to LF)
+* text=auto
+
+# definitively text files
+*.yml  text
+*.html text
+*.md   text
+*.txt  text
