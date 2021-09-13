@@ -1,5 +1,7 @@
 **My latest gists and articles:**
 
+• [Easy switch focus between two buttons](https://gist.github.com/zhibirc/db702941e13543545706335fa18e73ac)
+
 • [CircularBuffer 🔃 class](https://gist.github.com/zhibirc/5bedda8032c181285589b75bf72f011b)
 
 • [Basic password generator](https://gist.github.com/zhibirc/929b36329553d575fc18ee436e8e3d17)
