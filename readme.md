@@ -1,3 +1,10 @@
+<div style="display: flex;">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=zhibirc&count_private=true&show_icons=true&theme=graywhite" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhibirc&layout=compact&langs_count=8&theme=graywhite" />
+</div>
+
+---
+
 **My latest gists and articles:**
 
 • [Easy switch focus between two buttons](https://gist.github.com/zhibirc/db702941e13543545706335fa18e73ac)
